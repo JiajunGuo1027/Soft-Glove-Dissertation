@@ -1,0 +1,3 @@
+﻿phase,plot,active_csv,sensor_norm_lo,sensor_norm_hi,linear_coeffs,quadratic_coeffs,R2_linear,MSE_linear,R2_quadratic,MSE_quadratic
+Flex,D:\Soft_glove\models\index\R_L\R_L_Flex.png,D:\Soft_glove\models\index\R_L\R_L_Flex_active.csv,312.0,575.19,"[-4.446071896590218, -1.289915402239125]","[2.644783513026127, -6.796707223725325, -1.1273738125885693]",0.8761070028927646,0.3578456097808279,0.8894339361313971,0.31935284051511165
+Extend,D:\Soft_glove\models\index\R_L\R_L_Extend.png,D:\Soft_glove\models\index\R_L\R_L_Extend_active.csv,263.28,409.0,"[3.1267856102709417, -3.4939649847797063]","[-0.24587974491389664, 3.3552034372527753, -3.5165548915153186]",0.8873668897280746,0.1530262254569459,0.88762645601987,0.15267357205162488

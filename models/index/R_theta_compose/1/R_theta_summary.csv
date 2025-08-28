@@ -1,0 +1,2 @@
+﻿finger,sensor_col,affine_a,affine_b,has_gt,gt_col,RMSE_before,R2_before,suggest_a,suggest_b,RMSE_after,R2_after,ycol_used,thetaL_source
+index,SensorA1,0.6,23.9,True,θ_total,18.143822647348237,0.6487201445645145,0.9405747519876171,1.4334215803561363,17.98166442086128,0.654971128147645,θ_total,JSON

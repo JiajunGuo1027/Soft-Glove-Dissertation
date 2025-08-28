@@ -1,0 +1,81 @@
+{
+  "finger": "index",
+  "sensor_col": "SensorA1",
+  "affine": {
+    "a": 0.9877,
+    "b": 0.6574
+  },
+  "R_to_L_model": {
+    "finger": "middle",
+    "r_cm": 1.0,
+    "sensor_col": "SensorA1",
+    "phases": {
+      "Flex": {
+        "sensor_norm_lo": 312.0,
+        "sensor_norm_hi": 575.19,
+        "quadratic": {
+          "a": 2.644783513026127,
+          "b": -6.796707223725325,
+          "c": -1.1273738125885693
+        },
+        "linear": {
+          "a": -4.446071896590218,
+          "b": -1.289915402239125
+        },
+        "metrics": {
+          "R2_lin": 0.8761070028927646,
+          "MSE_lin": 0.3578456097808279,
+          "R2_quad": 0.8894339361313971,
+          "MSE_quad": 0.31935284051511165
+        }
+      },
+      "Extend": {
+        "sensor_norm_lo": 263.28,
+        "sensor_norm_hi": 409.0,
+        "quadratic": {
+          "a": -0.24587974491389664,
+          "b": 3.3552034372527753,
+          "c": -3.5165548915153186
+        },
+        "linear": {
+          "a": 3.1267856102709417,
+          "b": -3.4939649847797063
+        },
+        "metrics": {
+          "R2_lin": 0.8873668897280746,
+          "MSE_lin": 0.1530262254569459,
+          "R2_quad": 0.88762645601987,
+          "MSE_quad": 0.15267357205162488
+        }
+      }
+    }
+  },
+  "L_to_theta_model": {
+    "phase_quadratic": {
+      "Flex": [
+        -6.039679301354561,
+        -41.80752110916893,
+        33.2243568000421
+      ],
+      "Extend": [
+        12.70134744232192,
+        63.726495425154056,
+        78.34639308955641
+      ]
+    },
+    "ycol_used": "θ_total",
+    "source": "JSON"
+  },
+  "motor_ids": {
+    "flex_id": 2,
+    "extend_id": 5
+  },
+  "active_filter": {
+    "flex_dir": "neg",
+    "extend_dir": "neg",
+    "rolling": 5,
+    "dmotor_min": 0.02,
+    "gap_ms": 5000.0,
+    "dtheta_min": null
+  }
+}
