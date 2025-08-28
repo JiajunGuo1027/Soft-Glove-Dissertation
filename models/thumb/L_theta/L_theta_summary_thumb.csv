@@ -1,0 +1,3 @@
+﻿finger,phase,ycol,"linear_coeffs(a,b)","quadratic_coeffs(a,b,c)",R2_linear,MSE_linear,R2_quadratic,MSE_quadratic,plot,active_csv,N
+thumb,Flex,∠ABD_smooth,"7.31573, 58.9131","-3.18759, -3.71387, 52.7909",0.6709027934277791,28.14542945807273,0.7747212698142519,19.266546425260298,D:\Soft_glove\models\thumb\L_theta\thumb_Flex_∠ABD_smooth_vs_Lrel.png,D:\Soft_glove\models\thumb\L_theta\thumb_Flex_active.csv,436
+thumb,Extend,∠ABD_smooth,"-5.65205, -10.929","3.89558, 9.97507, -0.787113",0.476947935106672,49.725066559048656,0.7282975689900442,25.82997443854985,D:\Soft_glove\models\thumb\L_theta\thumb_Extend_∠ABD_smooth_vs_Lrel.png,D:\Soft_glove\models\thumb\L_theta\thumb_Extend_active.csv,436
