@@ -1,0 +1,7 @@
+﻿ycol,linear_coeffs,quadratic_coeffs,R2_linear,MSE_linear,R2_quadratic,MSE_quadratic,plot,phase,finger,N
+θ_total,"15.706, 95.8363","-4.62698, -11.5201, 70.0418",0.7687024191524896,228.67314945746773,0.9277832493847922,71.39733907399332,C:\Users\nicey\Desktop\Soft_glove\models\middle\middle_Flex_θ_total_vs_Lrel.png,Flex,middle,429
+∠ABC_smooth,"8.05092, 57.0362","-2.55291, -6.97096, 42.8042",0.7307608991345971,73.57395831714962,0.9059687767135578,25.695559375849477,C:\Users\nicey\Desktop\Soft_glove\models\middle\middle_Flex_∠ABC_smooth_vs_Lrel.png,Flex,middle,429
+∠BCD_smooth,"7.65509, 38.8001","-2.07406, -4.54913, 27.2376",0.8021295510945635,44.53566632397098,0.9425350523133788,12.933915850763983,C:\Users\nicey\Desktop\Soft_glove\models\middle\middle_Flex_∠BCD_smooth_vs_Lrel.png,Flex,middle,429
+θ_total,"nan, nan","nan, nan, nan",,,,,C:\Users\nicey\Desktop\Soft_glove\models\middle\middle_Extend_θ_total_vs_Lrel.png,Extend,middle,436
+∠ABC_smooth,"nan, nan","nan, nan, nan",,,,,C:\Users\nicey\Desktop\Soft_glove\models\middle\middle_Extend_∠ABC_smooth_vs_Lrel.png,Extend,middle,436
+∠BCD_smooth,"nan, nan","nan, nan, nan",,,,,C:\Users\nicey\Desktop\Soft_glove\models\middle\middle_Extend_∠BCD_smooth_vs_Lrel.png,Extend,middle,436
