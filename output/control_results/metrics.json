@@ -1,0 +1,54 @@
+{
+  "Index": {
+    "RMSE_all_deg": 2.6855319152777146,
+    "R2_all": 0.9187123777921876,
+    "RMSE_active_deg": 2.687138367428849,
+    "R2_active": 0.9190619086690712,
+    "lag_ms": 0.0,
+    "step_metrics": {
+      "rise_time_s": 0.0,
+      "overshoot_pct": 27.82821731029382,
+      "settling_time_s": NaN,
+      "steady_state_error_deg": 3.751784406710034
+    }
+  },
+  "Middle": {
+    "RMSE_all_deg": 2.5989345334038694,
+    "R2_all": 0.8993183916957044,
+    "RMSE_active_deg": 2.6014373147498615,
+    "R2_active": 0.8993026129033391,
+    "lag_ms": 0.0,
+    "step_metrics": {
+      "rise_time_s": 0.0,
+      "overshoot_pct": 28.58276809046384,
+      "settling_time_s": NaN,
+      "steady_state_error_deg": 3.277874837050894
+    }
+  },
+  "Thumb": {
+    "RMSE_all_deg": 2.798949400515845,
+    "R2_all": 0.9034918058802104,
+    "RMSE_active_deg": 2.7921260716466008,
+    "R2_active": 0.9038879409370585,
+    "lag_ms": 0.0,
+    "step_metrics": {
+      "rise_time_s": 0.0,
+      "overshoot_pct": 29.988260808992578,
+      "settling_time_s": NaN,
+      "steady_state_error_deg": 2.07795013459379
+    }
+  },
+  "_aggregate": {
+    "RMSE_all_deg": 2.69571636264787,
+    "R2_all": 0.9088420811813175,
+    "RMSE_active_deg": 2.6977250453031427,
+    "R2_active": 0.9087403730388623,
+    "lag_ms": 0.0,
+    "step_metrics": {
+      "rise_time_s": 0.0,
+      "overshoot_pct": 28.68442338251464,
+      "settling_time_s": NaN,
+      "steady_state_error_deg": 2.440875117869367
+    }
+  }
+}
