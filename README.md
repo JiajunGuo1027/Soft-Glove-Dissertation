@@ -1,9 +1,14 @@
 # Design and Closed-Loop Control of a Cable-Driven Soft Robotic Glove for Post-Stroke Rehabilitation
 This project aims to construct a soft glove-based passive rehabilitation training system to serve the finger rehabilitation process of patients with upper limb motor dysfunction after stroke.
 
+![Description](images/soft_glove_test/IMG_20250812_173334.jpg) 
+
+
 ## Overview
 This repository contains the complete implementation of a **cable-driven soft exoskeleton glove** developed for passive rehabilitation of post-stroke patients.  
 The system enables repeatable flexion–extension cycles of the thumb, index, and middle fingers using cable-driven actuation with integrated sensing and closed-loop control.  
+
+[![Watch the video](https://img.youtube.com/vi/nIMEAH1Ccxk/0.jpg)](https://youtu.be/nIMEAH1Ccxk)
 
 **Key Features:**
 - Modular glove design with silicone structures and 3D-printed connectors.  
