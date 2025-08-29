@@ -1,4 +1,4 @@
-# Soft-Glove-MSc
+# Design and Closed-Loop Control of a Cable-Driven Soft Robotic Glove for Post-Stroke Rehabilitation
 This project aims to construct a soft glove-based passive rehabilitation training system to serve the finger rehabilitation process of patients with upper limb motor dysfunction after stroke.
 
 ## Overview
@@ -97,7 +97,7 @@ Soft_glove/
    Use the scripts in `code/script/model/` to fit regression models.  
 
 3. **Upload firmware**  
-   Flash `close_loop_control.ino` to the OpenRB-150 board.  
+   Flash `closeloop_control.ino` to the OpenRB-150 board.  
 
 4. **Run closed-loop experiments**  
    Collect results in `output/control_results/` and visualize using provided Python scripts.  
